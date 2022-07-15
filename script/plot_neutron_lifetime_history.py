@@ -40,7 +40,7 @@ ax1.errorbar(
 	data['lifetime (s)'][data['method']=='Theory'],
 	yerr=data['error'][data['method']=='Theory'],	
 	fmt='^',markersize=10,linewidth=2,markeredgecolor='k',
-	color='orange',label='QCD')
+	color='brown',label='QCD')
 
 ax1.errorbar(
 	data['year'][data['method']=='Planet'],
