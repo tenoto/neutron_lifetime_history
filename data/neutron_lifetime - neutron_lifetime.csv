@@ -1,0 +1,19 @@
+flag,year,lifetime (s),stat,sys,reference,method,comment,link
+use,2021.80,887,14,7,Wilson 21,Planet,moon,https://arxiv.org/abs/2011.07061
+use,2020.93,898,10,-18,Hirota 20,Beam,JPARC,https://academic.oup.com/ptep/article/2020/12/123C02/6020274?login=false
+,2020.17,780,60,70,Wilson 20,Planet,"Marcury, Messenger",https://journals.aps.org/prresearch/pdf/10.1103/PhysRevResearch.2.023316
+use,2018.50,880,0,14,Chan 18,Theory,https://www.riken.jp/press/2018/20180531_1/index.html,https://www.nature.com/articles/s41586-018-0161-8
+use,2018.41,878.3,1.6,1.0,EZHOV 18,UCN,magneto-gravit. trap,https://link.springer.com/article/10.1134/S0021364018110024
+use,2018.41,881.5,0.7,0.6,SEREBROV 18,UCN,gravitational trap,https://journals.aps.org/prc/abstract/10.1103/PhysRevC.97.055503
+use,2018.35,877.7,0.7,0.4,PATTIE 18,UCN,asym. magnetic trap,https://arxiv.org/abs/1707.01817
+use,2012.00,880.2,1.2,0.0,Arzumanov 15,UCN,double bottle,
+use,2012.45,882.5,1.4,1.5,STEYEAL 12,UCN,material bottle,https://journals.aps.org/prc/abstract/10.1103/PhysRevC.85.065503
+use,2010.76,880.7,1.3,1.2,PICHLMAIER 10,UCN,material bottle,https://www.osti.gov/etdeweb/biblio/21432068
+use,2005.02,878.5,0.7,0.3,SEREBROV 05,UCN,gravitational trap,https://arxiv.org/abs/nucl-ex/0408009
+use,2013.00,887.7,1.2,1.9,Yue 13,Beam,"In-beam n, trapped p",https://arxiv.org/abs/1309.2623
+,2012.00,881.6,0.8,1.9,Arzumanov 12,UCN,See Arzumanov 15,
+,,886.3,1.2,3.2,Nico 05,,See Yue 13,
+,,886.8,1.2,3.2,Dewey 03,,See Nico 05,
+,,885.4,0.9,0.4,Arzumanov 00,UCN,See Arzumanov 12,
+use,1996.00,889.2,3.0,3.8,Byrne 96,Beam,Penning trap,https://iopscience.iop.org/article/10.1209/epl/i1996-00319-x
+use,1993.00,882.6,2.7,0.0,Mampe 93,UCN,material bottle,
